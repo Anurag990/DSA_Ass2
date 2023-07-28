@@ -1,0 +1,5 @@
+3 iteration required
+Original Array is [ 3, 5, 1, 6, 0 ]
+In first Iteration array is [5, 3, 6, 1, 0 ]
+In second Iteration array is [5, 6, 3, 1, 0 ]
+In third Iteration array is [6, 5, 3, 1, 0 ]
